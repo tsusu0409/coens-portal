@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a, a:visited, a:hover{
+    text-decoration: none;
+}
+
+header{
+    height: 108px;
+    color: white;
+    background-color: blue;
+    padding: 20px;
+}
+.title-main{
+    font-size: 24px;
+}
+.title-sub{
+    font-size: 12px;
+}
+
+footer{
+    height: 108px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+.footer-title{
+    font-size: 16px;
+}
+.footer-sub{
+    font-size: 12px;
+}
+
+
+/* 以下各ページ */
+.main {
+    height: 800px;
+    background-color: green;
+}
+
